@@ -102,7 +102,7 @@
     "amqplib": "^0.10.9",
     "async-mutex": "^0.5.0",
     "autumn-js": "1.2.13",
-    "axios": "^1.15.2",
+    "axios": "^1.16.1",
     "body-parser": "^1.20.3",
     "bullmq": "^5.56.7",
     "cacheable-lookup": "^6.1.0",
@@ -201,7 +201,7 @@
       "smol-toml@<1.6.1": ">=1.6.1",
       "handlebars": ">=4.7.9",
       "path-to-regexp@~0.1.12": "0.1.13",
-      "brace-expansion": ">=5.0.5",
+      "brace-expansion": ">=5.0.6",
       "follow-redirects@<1.16.0": ">=1.16.0 <2.0.0"
     }
   },
